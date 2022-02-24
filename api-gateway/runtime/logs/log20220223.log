@@ -1,0 +1,32 @@
+[INFO][pkg.go:12]2022/02/23 19:36:58 userService--fallback failed with '{"code":400,"detail":"两次密码不一致！","status":"Bad Request"}'. run error was '{"code":400,"detail":"两次密码不一致！","status":"Bad Request"}'
+[INFO][pkg.go:12]2022/02/23 19:37:42 userService--fallback failed with '{"id":"go.micro.client","code":500,"detail":"sql: database is closed","status":"Internal Server Error"}'. run error was '{"id":"go.micro.client","code":500,"detail":"sql: database is closed","status":"Internal Server Error"}'
+[INFO][pkg.go:12]2022/02/23 19:41:41 userService--fallback failed with '{"id":"go.micro.client","code":500,"detail":"Error 1103: Incorrect table name ''","status":"Internal Server Error"}'. run error was '{"id":"go.micro.client","code":500,"detail":"Error 1103: Incorrect table name ''","status":"Internal Server Error"}'
+[INFO][pkg.go:12]2022/02/23 19:42:29 userService--fallback failed with '{"id":"go.micro.client","code":500,"detail":"Error 1103: Incorrect table name ''","status":"Internal Server Error"}'. run error was '{"id":"go.micro.client","code":500,"detail":"Error 1103: Incorrect table name ''","status":"Internal Server Error"}'
+[INFO][pkg.go:12]2022/02/23 19:44:12 userService--fallback failed with '{"id":"go.micro.client","code":500,"detail":"Error 1103: Incorrect table name ''","status":"Internal Server Error"}'. run error was '{"id":"go.micro.client","code":500,"detail":"Error 1103: Incorrect table name ''","status":"Internal Server Error"}'
+[INFO][pkg.go:12]2022/02/23 19:44:30 userService--fallback failed with '{"id":"go.micro.client","code":500,"detail":"Error 1103: Incorrect table name ''","status":"Internal Server Error"}'. run error was '{"id":"go.micro.client","code":500,"detail":"Error 1103: Incorrect table name ''","status":"Internal Server Error"}'
+[INFO][pkg.go:12]2022/02/23 19:45:31 userService--fallback failed with '{"id":"go.micro.client","code":500,"detail":"Error 1103: Incorrect table name ''","status":"Internal Server Error"}'. run error was '{"id":"go.micro.client","code":500,"detail":"Error 1103: Incorrect table name ''","status":"Internal Server Error"}'
+[INFO][pkg.go:12]2022/02/23 19:48:23 userService--fallback failed with '{"id":"go.micro.client","code":500,"detail":"Error 1103: Incorrect table name ''","status":"Internal Server Error"}'. run error was '{"id":"go.micro.client","code":500,"detail":"Error 1103: Incorrect table name ''","status":"Internal Server Error"}'
+[INFO][pkg.go:12]2022/02/23 19:49:02 userService--fallback failed with '{"id":"go.micro.client","code":500,"detail":"sql: expected 0 arguments, got 1","status":"Internal Server Error"}'. run error was '{"id":"go.micro.client","code":500,"detail":"sql: expected 0 arguments, got 1","status":"Internal Server Error"}'
+[INFO][pkg.go:12]2022/02/23 19:58:54 userService--key is of invalid type
+[INFO][pkg.go:12]2022/02/23 19:59:36 userService--key is of invalid type
+[INFO][pkg.go:12]2022/02/23 20:00:12 userService--key is of invalid type
+[INFO][pkg.go:12]2022/02/23 20:02:19 userService--key is of invalid type
+[INFO][pkg.go:12]2022/02/23 20:02:39 userService--key is of invalid type
+[INFO][pkg.go:12]2022/02/23 20:06:32 userService--key is of invalid type
+[INFO][pkg.go:12]2022/02/23 20:08:08 userService--key is of invalid type
+[INFO][pkg.go:12]2022/02/23 20:10:34 userService--key is of invalid type
+[INFO][pkg.go:12]2022/02/23 20:11:31 userService--key is of invalid type
+[INFO][pkg.go:12]2022/02/23 20:12:45 userService--key is of invalid type
+[INFO][pkg.go:12]2022/02/23 20:16:57 userService--key is of invalid type
+[INFO][pkg.go:12]2022/02/23 20:18:26 userService--key is of invalid type
+[INFO][pkg.go:12]2022/02/23 20:19:25 userService--key is of invalid type
+[INFO][pkg.go:12]2022/02/23 20:22:21 userService--key is of invalid type
+[INFO][pkg.go:12]2022/02/23 20:24:04 userService--key is of invalid type
+[INFO][pkg.go:12]2022/02/23 20:26:58 userService--key is of invalid type
+[INFO][pkg.go:12]2022/02/23 20:27:32 userService--key is of invalid type
+[INFO][pkg.go:12]2022/02/23 20:28:08 userService--key is of invalid type
+[INFO][pkg.go:12]2022/02/23 20:28:24 userService--key is of invalid type
+[INFO][pkg.go:12]2022/02/23 20:30:07 userService--key is of invalid type
+[INFO][pkg.go:12]2022/02/23 20:31:33 userService--key is of invalid type
+[INFO][pkg.go:12]2022/02/23 20:33:05 userService--key is of invalid type
+[INFO][pkg.go:12]2022/02/23 20:33:25 userService--key is of invalid type
